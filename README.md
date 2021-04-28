@@ -1,4 +1,4 @@
-# leafy_policy
+Privacy Policy for Leafy
 **Privacy Policy**
 
 Electronic Code built the Leafy app as a Free app. This SERVICE is provided by Electronic Code at no cost and is intended for use as is.
